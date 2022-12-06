@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 150px; 
+    margin-right: 150px;
+  }
+  
+  td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+
+  }
+  th{
+    text-align: center;
+    align-items: center;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  h2{
+    margin-top: 150px;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+    font-size: medium;
+  }
